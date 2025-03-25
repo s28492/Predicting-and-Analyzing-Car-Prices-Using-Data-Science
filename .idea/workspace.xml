@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff36fd67-20b1-4346-aaa0-33c43d893a6a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/AnalisingXGBoostParameters.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AnalisingXGBoostParameters.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cleaned_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Cleaned_test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cleaned_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Cleaned_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataCleaning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataCleaning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataExploration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataExploration.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Solving.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/best param.csv" beforeDir="false" afterPath="$PROJECT_DIR$/best param.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wyniki_tuningu.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wyniki_tuningu.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;s28492&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/s28492/Predicting-and-Analyzing-Car-Prices-Using-Data-Science.git&quot;,
+    &quot;accountId&quot;: &quot;e9af207e-520d-4a43-a221-b66bb30e8d93&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2uG8Pv22ZD8WnBxQKRaS66oKFut" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Projekty/Python/CarPricesPrediction&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vipcy\OneDrive\Dokumenty\GitHub\Predicting-and-Analyzing-Car-Prices-Using-Data-Science" />
+      <recent name="C:\Users\vipcy\OneDrive\Dokumenty\GitHub\Predicting-and-Analyzing-Car-Prices-Using-Data-Science\Data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.conda-env">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Predicting-and-Analyzing-Car-Prices-Using-Data-Science" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conda-env" type="PythonConfigurationType" factoryName="Python">
+      <module name="Predicting-and-Analyzing-Car-Prices-Using-Data-Science" />
+      <option name="ENV_FILES" value="$USER_HOME$/anaconda3/envs/car-prices-prediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="car-prices-prediction" />
+      <option name="WORKING_DIRECTORY" value="F:\Projekty\Python\CarPricesPrediction" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.conda-env" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
+        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff36fd67-20b1-4346-aaa0-33c43d893a6a" name="Changes" comment="" />
+      <created>1741863529431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741863529431</updated>
+      <workItem from="1741863530635" duration="9656000" />
+      <workItem from="1741886459424" duration="9003000" />
+      <workItem from="1741933902959" duration="6516000" />
+      <workItem from="1741948067351" duration="330000" />
+      <workItem from="1741950605590" duration="5493000" />
+      <workItem from="1741957239675" duration="6973000" />
+      <workItem from="1741971683831" duration="3368000" />
+      <workItem from="1741981384988" duration="401000" />
+      <workItem from="1741981855471" duration="53000" />
+      <workItem from="1741982070597" duration="20000" />
+      <workItem from="1741982173924" duration="38000" />
+      <workItem from="1741982231828" duration="109000" />
+      <workItem from="1741984548252" duration="89000" />
+      <workItem from="1741989990655" duration="1715000" />
+      <workItem from="1742028057066" duration="21126000" />
+      <workItem from="1742130098554" duration="595000" />
+      <workItem from="1742147384111" duration="14558000" />
+      <workItem from="1742520765011" duration="1345000" />
+      <workItem from="1742522150237" duration="47516000" />
+      <workItem from="1742625769863" duration="47373000" />
+      <workItem from="1742676277826" duration="9378000" />
+      <workItem from="1742718767352" duration="84045000" />
+      <workItem from="1742897352790" duration="99000" />
+      <workItem from="1742897488415" duration="8474000" />
+      <workItem from="1742910581682" duration="14877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
